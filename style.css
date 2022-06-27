@@ -2,3 +2,41 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.header, .footer {
+    background-color: #1F2937;
+    color: white;
+}
+
+.top {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.main {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.hero button{
+    background-color: #3882f6;
+    color: #e5e7eb;
+}
+
+.cards {
+
+}
+
+.quote {
+
+}
+
+.call {
+
+}
