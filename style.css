@@ -20,14 +20,14 @@ ul {
     margin: 0px;
     padding: 0px;
     gap:20px;
-    padding: 20px;
+    padding: 20px 200px 20px 0px;
 }
 
 .logo {
     display: flex;
     justify-content: flex-start;    
     font-weight: 700;
-    padding: 20px
+    padding: 20px 0px 20px 200px;
 }
 
 .top {
