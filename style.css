@@ -147,6 +147,8 @@ a {
   border-color: #f9faf8;
   display: flex;
   align-items: center;
+  font-size: 18px;
+  font-weight: 700;
 }
 
 .footer {
